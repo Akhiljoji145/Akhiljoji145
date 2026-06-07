@@ -72,43 +72,64 @@ Self-taught Python full-stack developer from **Kottayam, Kerala 🇮🇳**, pass
 > Full order-to-dispatch automation for a bakery business — end-to-end.
 
 - **3 independently deployable backend modules** — orders, inventory, and analytics
-- Cross-platform mobile app (Android + iOS) from a **single React Native codebase**
+- Cross-platform mobile app (Android + iOS) from a **single React Native (Expo) codebase**
 - Firebase push notifications + **Vercel deployment**
 
 `Django` `PostgreSQL` `React Native (Expo)` `Django REST Framework` `Firebase` `Vercel`
 
 ---
 
-### 🚌 E-Bus Student Monitoring & Bus Tracking App *(2026)*
+### 🚌 [E-Bus Student Monitoring & Bus Tracking App](https://github.com/Akhiljoji145/E-bus-student-monitoring-and-bus-tracking-mobile-application) *(2026)*
 > Real-time GPS bus tracking with safety alerts for students and parents.
 
-- **WebSocket-based Django streaming backend** — live GPS updates via 10+ Postman-tested endpoints
+- **WebSocket-based Django streaming backend** — live GPS updates via 10+ API endpoints
+- TypeScript-typed React Native screens with `app/`, `components/`, `services/` architecture
 - Role-based access for **2 user groups** (parents & students) with automated safety alert triggers
-- TypeScript-typed React Native screens with clean code throughout
 
 `Django` `WebSockets` `TypeScript` `React Native` `REST API` `GPS`
 
 ---
 
-### 📲 E-Bus QR & Geo-Footprint System *(2025)*
+### 📲 [E-Bus QR & Geo-Footprint System](https://github.com/Akhiljoji145/E-Bus-Student-Monitoring-System-QR-Based-Alert-and-Geo-Footprint-Tracking.) *(2025 — In Development 🚧)*
 > Automated attendance via QR codes and geolocation — zero manual tracking.
 
-- Fully automated **QR + geolocation check-in/check-out** system
-- Django backend with **geofencing logic**
-- Real-time admin dashboard with **anomaly detection**
+- **6 role-based modules** — student, admin, driver, management, parent, teacher
+- Django backend with **geofencing logic** + real-time admin anomaly dashboard
+- Automated QR + geolocation **check-in/check-out** system with CSV bulk import support
 
-`Django` `Geofencing` `QR Code` `Real-time Dashboard`
+`Django` `Geofencing` `QR Code` `HTML` `Python` `MySQL`
 
 ---
 
-### 🌾 AgroConnect | 📹 Google Meet Clone | 🛒 E-Commerce App *(2023–2024)*
-> Three independent full-stack platforms built following SDLC and clean code practices.
+### 🛒 [E-Commerce Platform](https://github.com/Akhiljoji145/ecommerce) *(2024)*
+> Full-featured Django e-commerce application with pytest-covered APIs.
 
-| Project | Highlights | Tech |
-|---|---|---|
-| **AgroConnect** | Agri-marketplace with 4 modules | Django, PostgreSQL |
-| **Google Meet Clone** | WebRTC P2P video with attention tracking | WebRTC, Django |
-| **E-Commerce App** | 5 features, pytest-covered APIs | Django, REST API, pytest |
+- Complete product, cart, order, and user management system
+- **58 commits** — thoroughly developed with SDLC and clean code practices
+- pytest-covered REST APIs with 5 core feature modules
+
+`Django` `Python` `HTML` `CSS` `PostgreSQL` `pytest`
+
+---
+
+### 🎬 [Movie Project](https://github.com/Akhiljoji145/movieproject1) *(2024)*
+> Django-based movie listing and management web application.
+
+- Full Django MVC structure — models, views, templates, static assets
+- Media file handling with custom template rendering
+
+`Django` `Python` `HTML` `CSS`
+
+---
+
+### 🅿️ [Online Vehicle Parking Management System](https://github.com/Akhiljoji145/Online-Vehicle-Parking-Management-System) *(BCA Mini-Project)*
+> Full-stack parking management system built as a BCA mini-project.
+
+- **3 user roles** — admin, registered user, and guest user
+- Complete **47-commit** PHP + MySQL backend with user registration and slot management
+- Clean modular structure with separate admin, user, and guestuser panels
+
+`PHP` `HTML` `JavaScript` `MySQL`
 
 ---
 
@@ -123,11 +144,11 @@ Self-taught Python full-stack developer from **Kottayam, Kerala 🇮🇳**, pass
 
 <div align="center">
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhiljoji145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhiljoji145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoji145&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoji145&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhiljoji145&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akhiljoji145&theme=tokyonight&hide_border=true)
 
 </div>
 

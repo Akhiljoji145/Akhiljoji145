@@ -1,88 +1,153 @@
-Hi 👋 I'm Akhil Joji
+<div align="center">
 
-🎓 MCA Student
-💻 Full Stack Developer | Python | Django | React Native
-🚀 Passionate about building intelligent systems, mobile apps, and data-driven platforms.
+# Hey there, I'm Akhil Joji 👋
 
----
+### Python Full Stack Developer · Django · React Native · REST APIs
 
-🚀 Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhiljoji)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhiljoji145)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhiljoji1451@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akhiljoji_145/)
 
-🚌 E-Bus Student Monitoring System
-
-A smart transportation management system for educational institutions.
-
-Features:
-
-- Real-time bus tracking
-- Student monitoring
-- Mobile application for students
-- Admin dashboard
-
-Tech Stack:
-React Native • Django • REST API
+</div>
 
 ---
 
-🧪 Virtual Lab Learning Platform
+## 🙋‍♂️ About Me
 
-An interactive learning platform that explains algorithms and concepts using visual demonstrations.
+Self-taught Python full-stack developer from **Kottayam, Kerala 🇮🇳**, passionate about building real-world applications that solve real problems. I enjoy working across the full stack — from designing scalable Django backends to crafting cross-platform mobile apps with React Native.
 
-Example:
-
-- Bubble Sort visualization
-- SQL concept learning
-- Step-by-step algorithm videos
-
-Tech Stack:
-Python • Web Technologies • Data Visualization
+- 🎓 **MCA** — Mangalam College of Engineering, Kerala *(Awaiting Results)*
+- 🔧 Strong background in **Django REST Framework**, **WebSockets**, **GPS/IoT integrations**
+- 📱 Built production-grade apps in **GPS tracking**, **e-commerce**, and **bakery management**
+- ✅ Follow **clean code** practices, **SDLC**, and **Agile methodology**
+- 🌱 Currently deepening skills in **AWS**, **cloud architecture**, and **system design**
+- 💬 Languages: Malayalam 🗣️ · English · Hindi
 
 ---
 
-🌫 IoT Air Quality Monitoring System
+## 🛠️ Tech Stack
 
-An IoT-based system that collects environmental sensor data and visualizes air quality.
+**Languages**
 
-Features:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- Sensor data collection
-- Data visualization dashboard
-- Possible ML integration
+**Frameworks & Libraries**
 
-Tech Stack:
-IoT Sensors • Python • Streamlit • Machine Learning
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
----
+**Databases**
 
-🛠 Skills
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Programming:
-Python • PHP • JavaScript
+**Tools & Platforms**
 
-Frameworks:
-Django • React Native
-
-Technologies:
-Machine Learning • IoT • Data Analytics • REST APIs
-
----
-
-📊 GitHub Stats
-
-"Akhil's GitHub stats" (https://github-readme-stats.vercel.app/api?username=Akhiljoji145&show_icons=true&theme=tokyonight)
-
----
-
-🔥 Most Used Languages
-
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoji145&layout=compact)
-
----
-
-📫 Connect With Me
-
-GitHub: https://github.com/Akhiljoji145
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4EA94B?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 ---
 
-⭐ Always exploring new technologies and building real-world solutions.
+## 🚀 Featured Projects
+
+### 🍰 N3 Bakers — Bakery Management Platform *(2026)*
+> Full order-to-dispatch automation for a bakery business — end-to-end.
+
+- **3 independently deployable backend modules** — orders, inventory, and analytics
+- Cross-platform mobile app (Android + iOS) from a **single React Native codebase**
+- Firebase push notifications + **Vercel deployment**
+
+`Django` `PostgreSQL` `React Native (Expo)` `Django REST Framework` `Firebase` `Vercel`
+
+---
+
+### 🚌 E-Bus Student Monitoring & Bus Tracking App *(2026)*
+> Real-time GPS bus tracking with safety alerts for students and parents.
+
+- **WebSocket-based Django streaming backend** — live GPS updates via 10+ Postman-tested endpoints
+- Role-based access for **2 user groups** (parents & students) with automated safety alert triggers
+- TypeScript-typed React Native screens with clean code throughout
+
+`Django` `WebSockets` `TypeScript` `React Native` `REST API` `GPS`
+
+---
+
+### 📲 E-Bus QR & Geo-Footprint System *(2025)*
+> Automated attendance via QR codes and geolocation — zero manual tracking.
+
+- Fully automated **QR + geolocation check-in/check-out** system
+- Django backend with **geofencing logic**
+- Real-time admin dashboard with **anomaly detection**
+
+`Django` `Geofencing` `QR Code` `Real-time Dashboard`
+
+---
+
+### 🌾 AgroConnect | 📹 Google Meet Clone | 🛒 E-Commerce App *(2023–2024)*
+> Three independent full-stack platforms built following SDLC and clean code practices.
+
+| Project | Highlights | Tech |
+|---|---|---|
+| **AgroConnect** | Agri-marketplace with 4 modules | Django, PostgreSQL |
+| **Google Meet Clone** | WebRTC P2P video with attention tracking | WebRTC, Django |
+| **E-Commerce App** | 5 features, pytest-covered APIs | Django, REST API, pytest |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Python Full Stack Development** — Inmakes Infotech, Ernakulam *(Nov 2023 – Jun 2024)*
+- 🏅 **Foundation of Cloud, IoT, Edge & ML** — IIT Kanpur via NPTEL *(Feb 2025 – Apr 2025)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhiljoji145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoji145&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhiljoji145&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+| | |
+|---|---|
+| 📧 Email | [akhiljoji1451@gmail.com](mailto:akhiljoji1451@gmail.com) |
+| 📱 Phone | +91 9567323468 |
+| 💼 LinkedIn | [linkedin.com/in/akhiljoji](https://linkedin.com/in/akhiljoji) |
+| 📍 Location | Kottayam, Kerala, India |
+
+---
+
+<div align="center">
+
+*"Building production-ready solutions from day one."*
+
+⭐ If you find any of my projects useful, feel free to star them!
+
+</div>

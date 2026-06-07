@@ -144,11 +144,13 @@ Self-taught Python full-stack developer from **Kottayam, Kerala 🇮🇳**, pass
 
 <div align="center">
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhiljoji145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhiljoji145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoji145&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoji145&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Akhiljoji145&theme=tokyonight&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhiljoji145&theme=tokyonight)
 
 </div>
 
